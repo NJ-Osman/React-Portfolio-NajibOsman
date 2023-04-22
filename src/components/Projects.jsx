@@ -1,5 +1,4 @@
 import "./Projects.css";
-import "./Projects.css";
 
 export default function Project(props) {
   return (
