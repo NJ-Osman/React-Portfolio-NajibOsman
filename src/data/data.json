@@ -1,0 +1,26 @@
+[{
+"projects": {
+    "project-one": {
+      "name": "Pokemon App",
+      "projectInfo": "A HTML, CSS, Javascript application for pokemon lovers. This app lets users type in their favourite pokemon name or select their favourite pokemon type.",
+      "github": "https://najib-osman.github.io/pet-project/",
+      "languages": "HTML, CSS, JAVASCRIPT",
+      "image": "/Images/PokemonCode.jpg"
+    },
+    "project-Two": {
+      "name":"Game App Project",
+      "projectInfo":"This app tracks data about all your favourite games. You can search for your favourite video game or choose how long the game has been played for. Come to our gaming app tracking data to track your favourite games! This application uses HTML CSS and Javascript.",
+      "github": "https://najib-osman.github.io/game-app/",
+      "languages":"HTML, CSS, JAVASCRIPT",
+      "image":"/Images/GamingCode.jpg"
+    },
+    "project-three": {
+      "name": "Menu project",
+      "projectInfo": "This app shares a resturant menu for users to decide which meal they want to purchase and eat. It ranges from breakfast, lunch, shakes, and dinner. Come to our resturant today and order any type of meals you can imagine! this application uses HTML CSS and Javascript.",
+      "github": "https://najib-osman.github.io/resturant-menu/",
+      "languages": "HTML, CSS, JAVASCRIPT",
+      "image": "/Images/ResturantMenuCode.jpg"
+    }
+  }
+}
+]

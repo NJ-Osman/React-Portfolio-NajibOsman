@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css2?family=Kanit:wght@600&family=Oswald&family=Ubuntu:wght@300&display=swap');
+
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #CBC3E3;
+}
+
+p {
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.menu {
+    display: flex;
+    justify-content: flex-end;
+    padding: 25px 0 0 0;
+    margin: 0;
+}
+
+.header {
+    background-color: black;
+    padding-bottom: 25px;
+}
+
+
+li {
+    list-style-type: none;
+    padding: 0 25px;
+    font-size: 20px;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+    text-transform: uppercase;
+}
+
+.myself {
+    background-image: url("https://images.unsplash.com/photo-1585758907038-2e1c09d84f75?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1171&q=80");
+    text-align: center;
+    font-size: 30px;
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    color: white;
+}
+
+.myName {
+    margin: 0;
+    padding: 250px 0 0 0;
+    font-family: 'Kanit', sans-serif;
+    text-transform: uppercase;
+    font-size: 100px;
+    letter-spacing: 3px;
+}
+
+.codeTitle {
+    margin: 0;
+    padding: 0;
+    font-family: 'Oswald', sans-serif;
+    letter-spacing: 5px;
+    font-size: 40px;
+    text-transform: uppercase
+}

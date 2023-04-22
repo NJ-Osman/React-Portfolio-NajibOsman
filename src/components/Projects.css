@@ -1,0 +1,71 @@
+.projects {
+    background-color: #9e8fcb;
+    color: black;
+}
+
+.projectSkills {
+    text-align: center;
+    font-size: 30px;
+    margin: 0;
+    padding: 40px 0px;
+}
+
+.projectOne {
+    display: flex;
+    align-items: center;
+    border: 3px solid purple;
+    border-radius: 5%;
+    padding-bottom: 20px;
+    margin: 45px;
+}
+
+.projectImage {
+    width: 850px;
+    padding-right: 205px;
+    padding-top: 20px;
+}
+
+.project {
+    padding-left: 155px;
+}
+
+.usedCode {
+    font-size: 24px;
+}
+
+.projectText {
+    font-size: 24px;
+    width: 60%;
+}
+
+.projectTwo {
+    display: flex;
+    align-items: center;
+    border: 3px solid purple;
+    border-radius: 5%;
+    padding-bottom: 20px;
+    margin: 45px;
+}
+
+.projectThree {
+    display: flex;
+    align-items: center;
+    border: 3px solid purple;
+    border-radius: 5%;
+    padding-bottom: 20px;
+    margin: 20px 45px;
+}
+
+.live-link {
+    background-color: #CBC3E3;
+    padding: 15px 15px;
+    border-radius: 25px;
+    font-size: 20px;
+}
+
+.repo {
+    background-color: #CBC3E3;
+    padding: 15px 15px;
+    border-radius: 25px;
+    font-size: 20px;
+}

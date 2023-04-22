@@ -1,0 +1,86 @@
+.contact-us {
+    background-color: black;
+    text-align: center;
+    height: 100vh;
+}
+
+.getInTouch {
+    color: white;
+    margin: 0;
+    padding: 25px;
+}
+
+.questions {
+    color: white;
+    padding: 25px;
+    font-size: 20px;
+}
+
+.contact-Form {
+    color: white;
+}
+
+.contacts {
+    border: 3px solid white;
+    border-radius: 5%;
+    margin: 0px 155px;
+}
+
+.yourName {
+    font-size: 24px;
+    color: white;
+}
+
+#fullName {
+    background-color: black;
+    border: none;
+    border-bottom: 3px solid white;
+}
+
+.yourEmail {
+    font-size: 24px;
+    color: white;
+}
+
+#email {
+    background-color: black;
+    border: none;
+    border-bottom: 3px solid white;
+}
+
+.yourSubject {
+    font-size: 24px;
+    color: white;
+}
+
+#subject {
+    background-color: black;
+    border: none;
+    border-bottom: 3px solid white;
+}
+
+.yourMessage {
+    font-size: 24px;
+    color: white;
+}
+
+#message {
+   background-color: black;
+   border: 2px solid white; 
+}
+
+input, textarea {
+    color: white;
+}
+
+.submit {
+    margin: 15px 0;
+    background-color: white;
+    padding: 15px 15px;
+    border-radius: 25px;
+    font-size: 20px;
+}
+
+.submit:hover {
+    background-color: purple;
+}
